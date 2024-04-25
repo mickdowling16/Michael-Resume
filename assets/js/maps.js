@@ -10,9 +10,8 @@ function initMap() {
     var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     var locations = [
-        { lat: 40.785091, lng: -73.968285 },
-        { lat: 41.084045, lng: -73.874245 },
-        { lat: 40.754932, lng: -73.984016 }
+        { lat: 53.270580, lng: -7.500338 },
+        { lat: 53.525453, lng: -7.337575 },
     ];
 
     var markers = locations.map(function(location, i) {
