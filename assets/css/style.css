@@ -3,7 +3,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: #335384;
 }
 
 .bg-color-three-reasons {
@@ -65,7 +65,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    background-color: #525252;
+    background-color: #335384;
     color: #555555;
 }
 
@@ -77,6 +77,10 @@ h2,
 h3,
 h4 {
     margin: 0;
+}
+
+h4 {
+    color: #5BA7D1
 }
 
 .uppercase {
@@ -197,7 +201,7 @@ header {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: #525252;
+    background-color: #335384;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
